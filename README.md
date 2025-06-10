@@ -1,7 +1,7 @@
 
 # 🌍 AI Translator with Artificial Intelligence
 
-A smart and simple application for translating between **Bulgarian, English, Russian, and Chinese**, powered by Hugging Face 🤖
+A smart & simple application for translating between **Bulgarian, English, Russian, and Chinese**, powered by Hugging Face 🤖
 
 ![Gradio Translator](https://img.shields.io/badge/Machine_Translation-HuggingFace-yellow)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
